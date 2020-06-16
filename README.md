@@ -1,7 +1,7 @@
 # SerasaExperience
 Programa criado para o desafio do programa Serasa e ProWay
 
-Primeiramente monte o banco de dados. Faça o download do dump no seu servidor. O dump se encontra na pasta dump.
+Primeiramente monte o banco de dados. Faça o download do dump no seu servidor. O dump se encontra na pasta principal
 
 Então importe o dump. Importante que o banco de dados tenha o nome serasa
 
