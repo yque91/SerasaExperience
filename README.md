@@ -1,7 +1,12 @@
 # SerasaExperience
-Programa criado para o desafio do programa Serasa e ProWay
+
+Programa criado para o desafio do programa Serasa e ProWay. 
+
+O objetivo é montar um programa com um rank de empresas de acordo com os dados de notas fiscais emitidas.
 
 Montado em Java, com interface no Java Swing e banco de dados MySQL
+
+# Como rodar
 
 Primeiramente monte o banco de dados. Faça o download do dump no seu servidor. O dump se encontra na pasta principal
 
