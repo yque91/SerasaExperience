@@ -6,7 +6,7 @@ O objetivo é montar um programa com um rank de empresas de acordo com os dados 
 
 Montado em Java, com interface no Java Swing e banco de dados MySQL
 
-# Como rodar
+# Como rodar o programa
 
 Primeiramente monte o banco de dados. Faça o download do dump no seu servidor. O dump se encontra na pasta principal
 
